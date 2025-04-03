@@ -7,7 +7,6 @@ import CryptoKit
 import Dispatch
 import Foundation
 @_exported import OKConnectSDK
-import Starscream
 import Swift
 import UIKit
 import _Concurrency

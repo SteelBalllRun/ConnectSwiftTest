@@ -14,15 +14,15 @@
 		</data>
 		<key>Modules/OKConnectSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		J6KbankB3YsQBEd7YZwNVCllUAU=
+		H82beWwqydiwnC5/Sa0LSlbugd4=
 		</data>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		LHcZtC4Qb0uaUbs8uMF3wWHP8aI=
+		O1dRGkvqELZzdNiH/SFBhY4uZy8=
 		</data>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		9AlbBNYVsMiR/mJKlfcRwebSd6o=
+		7Tt0C+Rsh0MFZKMXZ3lGsw41Lh0=
 		</data>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		9AlbBNYVsMiR/mJKlfcRwebSd6o=
+		7Tt0C+Rsh0MFZKMXZ3lGsw41Lh0=
 		</data>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ZGv79EXpLT9A9uI6avawfBcmC10=
+		nmT2imJtrRcuHn/dhLw1kwWEmKc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,33 +58,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J6KbankB3YsQBEd7YZwNVCllUAU=
+			H82beWwqydiwnC5/Sa0LSlbugd4=
 			</data>
 			<key>hash2</key>
 			<data>
-			6f4VmUkiHlSJKpJIIResom2vtOP1oPBHVQfGyZxIVds=
+			jYJyi9wQ6YxTf6ttCY5YIpMJLGoZdhzbKUBYaIeFKjc=
 			</data>
 		</dict>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LHcZtC4Qb0uaUbs8uMF3wWHP8aI=
+			O1dRGkvqELZzdNiH/SFBhY4uZy8=
 			</data>
 			<key>hash2</key>
 			<data>
-			V2VDbFSK/hczgsjxJI7y3VJa/6Lcxx46bboUGahdwy0=
+			C/dWXb7G/hfir5DSkm36Dh7KDCUhAhFIsYLz//8L5mU=
 			</data>
 		</dict>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9AlbBNYVsMiR/mJKlfcRwebSd6o=
+			7Tt0C+Rsh0MFZKMXZ3lGsw41Lh0=
 			</data>
 			<key>hash2</key>
 			<data>
-			jZcugwG0gxZBAGHHofL01lroKSc39uWhn2YbddUYrC4=
+			3010EmhbyWKa0SYOuzR0XN3LEL7j0x/6AFEHwHawMV4=
 			</data>
 		</dict>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -102,22 +102,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9AlbBNYVsMiR/mJKlfcRwebSd6o=
+			7Tt0C+Rsh0MFZKMXZ3lGsw41Lh0=
 			</data>
 			<key>hash2</key>
 			<data>
-			jZcugwG0gxZBAGHHofL01lroKSc39uWhn2YbddUYrC4=
+			3010EmhbyWKa0SYOuzR0XN3LEL7j0x/6AFEHwHawMV4=
 			</data>
 		</dict>
 		<key>Modules/OKConnectSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZGv79EXpLT9A9uI6avawfBcmC10=
+			nmT2imJtrRcuHn/dhLw1kwWEmKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			PxebJ10JAXeJamXIfu61/lxpbgvOVDAoUhObixmEmOg=
+			rpZQGVQT+tomVqpuLwtly5JsKb/C6qzHWy4wTYs+3R0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -20843,7 +20843,10 @@
         "name": "Starscream",
         "printedName": "Starscream",
         "declKind": "Import",
-        "moduleName": "OKConnectSDK"
+        "moduleName": "OKConnectSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -26294,112 +26297,112 @@
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1146,
+      "offset": 1155,
       "length": 32,
       "value": "\"OKX-ConnectTopicUserDefaultKey\""
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1228,
+      "offset": 1237,
       "length": 29,
       "value": "\"OKX-ConnectTopicUserTempKey\""
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1325,
+      "offset": 1334,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1340,
+      "offset": 1349,
       "length": 28,
       "value": "\"com.okx.connect.topicCache\""
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1483,
+      "offset": 1492,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 1498,
+      "offset": 1507,
       "length": 28,
       "value": "\"com.okx.connect.topicCache\""
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 1738,
+      "offset": 1747,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "Dictionary",
-      "offset": 2212,
+      "offset": 2221,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "StringLiteral",
-      "offset": 2261,
+      "offset": 2270,
       "length": 33,
       "value": "\"com.okx.connect.mobilewebsocket\""
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "IntegerLiteral",
-      "offset": 2443,
+      "offset": 2452,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "IntegerLiteral",
-      "offset": 2490,
+      "offset": 2499,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "IntegerLiteral",
-      "offset": 2524,
+      "offset": 2533,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "Array",
-      "offset": 2573,
+      "offset": 2582,
       "length": 183,
       "value": "[\"wss:\/\/wsdex.okx.com\/ws\/v1\/wallet-connect-relay\", \"wss:\/\/wsdex.okx.ac\/ws\/v1\/wallet-connect-relay\", \"wss:\/\/wsdex.coinall.ltd\/ws\/v1\/wallet-connect-relay\"]"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 2790,
+      "offset": 2799,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "IntegerLiteral",
-      "offset": 7894,
+      "offset": 7903,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/oker\/meili\/fanghao.shu_dacs_at_okg.com\/121\/Documents\/workspace\/okg\/testStatic\/OKConnectSDK\/OKConnectSDK\/ConnectCore\/OKXConnect\/WebSocket\/OKXConnectMobileWebSocket.swift",
       "kind": "IntegerLiteral",
-      "offset": 9002,
+      "offset": 9011,
       "length": 1,
       "value": "3"
     },
