@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "OKConnectSDKTest"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "A short description of OKConnectSDK.test test"
 
   # This description is used to generate tags and improve search results.
@@ -51,9 +51,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "fanghao.shu" => "fanghao.shu@okg.com" }
-  # Or just: spec.author    = "fanghao.shu"
-  # spec.authors            = { "fanghao.shu" => "fanghao.shu@okg.com" }
+  spec.author    = "fanghao.shu"
   # spec.social_media_url   = "https://twitter.com/fanghao.shu"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
